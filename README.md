@@ -5,7 +5,7 @@
   - Cyber Security
 - 🌱 I’m currently learning
   -  Data Science
-  -  Computer Enineering
+  -  Computer Engineering
   -  Website Development
 - 💞️ I’m looking to collaborate on 
   - new projects
